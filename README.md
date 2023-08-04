@@ -5,4 +5,4 @@ You can visit out [Smart Shop](https://smart-shop-pos.web.app/) website to know 
 
 ##### Client Side
 
-- [GitHub (Smart Shop Client)](https://github.com/imRHB/smart-shop-client)
+- [GitHub (Smart Shop Client)](https://github.com/champmahfuz/Smart-Shop-Client-Update)
